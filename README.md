@@ -3,25 +3,28 @@
 ## Project: Recipes
 
 This project was part of the [Odin Project](https://www.theodinproject.com) Foundations Course.
-You can see the live preview [here.](https://eszdevstar.github.io/odin-recipes/)
+
+You can see the live preview [Here.](https://eszdevstar.github.io/odin-recipes-css/)
+
+This project is a introduction to css, to see the project without css click [here.](https://eszdevstar.github.io/odin-recipes/)
 
 The  images used in this project can be found [here](https://commons.wikimedia.org/wiki/Main_Page)
 
 ## Assignment
 
-Practice the _**HTML**_ basics. 
+Practice the _**CSS**_ basics. 
 
-* Headers
->  h1, h2, h3...
+* Box
+>  border, padding, margin
 
-* Lists
->  ul, ol, li
+* Color e Background
+>  background-color, color
 
-* Links
->  a href="", img scr=""
+* Font
+>  font-family, font-size
 
-* Tags
->  p, strong, em
+* Size
+>  weight, height
 
 
 ### code with love <3
